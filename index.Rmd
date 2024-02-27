@@ -22,8 +22,6 @@ knitr::opts_chunk$set(echo = TRUE)
   </font>
 </center>
 
-![](./img/feb-closing-announcement.jpg)
-
 ![](./img/IMG_0090.jpg)
 
 ![](./img/sd_schedule.jpg)
